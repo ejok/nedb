@@ -2,6 +2,8 @@
 
 <img src="http://i.imgur.com/GdeQBmc.png" style="width: 25%; height: 25%; float: left;">
 
+**FORK NOTE: Only difference between this fork and the original NeDB is that in this fork auto compaction uses fsync to ensure that data is flushed to a file before moving on to the next fs operation in sequence.**
+
 **IMPORTANT NOTE: Please don't submit issues for questions regarding your code. Only actual bugs or feature requests will be answered, all others will be closed without comment. Also, please follow the <a href="#bug-reporting-guidelines">bug reporting guidelines</a>.**
 
 **Embedded persistent database for Node.js, Node Webkit and browsers, written in Javascript, with no binary dependency**, which
