@@ -1,6 +1,6 @@
 {
-  "name": "nedb",
-  "version": "1.2.1",
+  "name": "nedb-fsync",
+  "version": "1.2.5",
   "author": {
     "name": "Louis Chatriot",
     "email": "louis.chatriot@gmail.com"
@@ -17,7 +17,7 @@
   "homepage": "https://github.com/louischatriot/nedb",
   "repository": {
     "type": "git",
-    "url": "git@github.com:louischatriot/nedb.git"
+    "url": "git@github.com:ejok/nedb.git"
   },
   "dependencies": {
     "async": "0.2.10",
