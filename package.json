@@ -1,6 +1,6 @@
 {
   "name": "nedb-fsync",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "author": {
     "name": "Louis Chatriot",
     "email": "louis.chatriot@gmail.com"
